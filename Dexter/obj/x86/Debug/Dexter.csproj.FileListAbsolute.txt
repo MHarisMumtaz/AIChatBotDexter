@@ -1,0 +1,173 @@
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\bin\Debug\Dexter.exe
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\bin\Debug\Dexter.pdb
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\App.g.cs
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Window1.baml
+c:\users\anonymous\documents\visual studio 2010\Projects\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Window1.baml
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\Dexter\Dexter\bin\Debug\Dexter.exe
+C:\Users\Ahmed\Desktop\Dexter\Dexter\bin\Debug\Dexter.pdb
+H:\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+H:\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+H:\Dexter\Dexter\bin\Debug\Dexter.exe
+H:\Dexter\Dexter\bin\Debug\Dexter.pdb
+H:\Dexter\Dexter\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+H:\Dexter\Dexter\obj\x86\Debug\Window1.baml
+H:\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+H:\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+H:\Dexter\Dexter\obj\x86\Debug\App.g.cs
+H:\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+H:\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+H:\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+H:\Dexter\Dexter\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Dexter\Dexter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+D:\Dexter\Dexter\bin\Debug\Dexter.exe
+D:\Dexter\Dexter\bin\Debug\Dexter.pdb
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+D:\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+D:\Dexter\Dexter\obj\x86\Debug\Window1.baml
+D:\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+D:\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+D:\Dexter\Dexter\obj\x86\Debug\App.g.cs
+D:\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+D:\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\Dexter\Dexter\bin\Debug\DexterLab.dll
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\Dexter\Dexter\bin\Debug\DexterLab.pdb
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.exe
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.pdb
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.pdb
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.baml
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\App.g.cs
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anonymous\Documents\Autorun\Spring 2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.dll
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.exe
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.pdb
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.dll
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.pdb
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.baml
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\App.g.cs
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+E:\Autorun\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.exe
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.pdb
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.dll
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.pdb
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.baml
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\App.g.cs
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+G:\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.exe
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\Dexter.pdb
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.dll
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\bin\Debug\DexterLab.pdb
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.baml
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\App.g.cs
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+G:\my\Autorun\University-History\Spring-2014\DS\PROJECT\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+C:\Users\HM\Desktop\Dexter\Dexter\bin\Debug\Dexter.exe
+C:\Users\HM\Desktop\Dexter\Dexter\bin\Debug\Dexter.pdb
+C:\Users\HM\Desktop\Dexter\Dexter\bin\Debug\DexterLab.dll
+C:\Users\HM\Desktop\Dexter\Dexter\bin\Debug\DexterLab.pdb
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Window1.baml
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\App.g.cs
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+C:\Users\HM\Desktop\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\bin\Debug\Dexter.exe
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\bin\Debug\Dexter.pdb
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\bin\Debug\DexterLab.dll
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\bin\Debug\DexterLab.pdb
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Window1.baml
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\App.g.cs
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+F:\my\Autorun\University-History\Spring-2015\AI\Project\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.exe
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.pdb
+D:\Autorun\Portfolio\Dexter\Dexter\bin\Debug\Dexter.exe
+D:\Autorun\Portfolio\Dexter\Dexter\bin\Debug\Dexter.pdb
+D:\Autorun\Portfolio\Dexter\Dexter\bin\Debug\DexterLab.dll
+D:\Autorun\Portfolio\Dexter\Dexter\bin\Debug\DexterLab.pdb
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.csprojResolveAssemblyReference.cache
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\MainWindow.baml
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Window1.baml
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\MainWindow.g.cs
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Window1.g.cs
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\App.g.cs
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter_MarkupCompile.cache
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.g.resources
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.Properties.Resources.resources
+D:\Autorun\Portfolio\Dexter\Dexter\obj\x86\Debug\Dexter.csproj.GenerateResource.Cache
